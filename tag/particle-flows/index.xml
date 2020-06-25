@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Particle flows | Et al. Lab</title>
+    <link>https://Lai-etal-lab.github.io/tag/particle-flows/</link>
+      <atom:link href="https://Lai-etal-lab.github.io/tag/particle-flows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Particle flows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
+      <title>Particle flows</title>
+      <link>https://Lai-etal-lab.github.io/tag/particle-flows/</link>
+    </image>
+    
+    <item>
+      <title>Turbulence statistics in a negatively buoyant multiphase plume</title>
+      <link>https://Lai-etal-lab.github.io/publication/negatively-buoyant-multiphase-plume/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/publication/negatively-buoyant-multiphase-plume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
