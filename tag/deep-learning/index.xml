@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Et al. Lab</title>
-    <link>https://Lai-etal-lab.github.io/project/</link>
-      <atom:link href="https://Lai-etal-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Deep Learning | Et al. Lab</title>
+    <link>https://Lai-etal-lab.github.io/tag/deep-learning/</link>
+      <atom:link href="https://Lai-etal-lab.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://Lai-etal-lab.github.io/project/</link>
+      <title>Deep Learning</title>
+      <link>https://Lai-etal-lab.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
