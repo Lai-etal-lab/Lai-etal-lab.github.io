@@ -5,12 +5,41 @@
     <link>https://Lai-etal-lab.github.io/tag/multiphase-flow/</link>
       <atom:link href="https://Lai-etal-lab.github.io/tag/multiphase-flow/index.xml" rel="self" type="application/rss+xml" />
     <description>Multiphase flow</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
       <title>Multiphase flow</title>
       <link>https://Lai-etal-lab.github.io/tag/multiphase-flow/</link>
     </image>
+    
+    <item>
+      <title>Multibody turbulent flow</title>
+      <link>https://Lai-etal-lab.github.io/project/multi-body-turbulent-flow/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/project/multi-body-turbulent-flow/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Production of turbulence in an array of spheres with relative motions: air-water flows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Environmental flows involving air or water interacting with heterogeneous objects such as particles, droplets or buildings are of great concern to the civil engineering discipline because of the modifications brought by the objects to the flow field, and hence, to the turbulent dispersion of solute and heat. &lt;strong&gt;&lt;em&gt;The goal&lt;/em&gt;&lt;/strong&gt; is to use high-resolution, volumetric velocity and scalar concentration field data to inform turbulence modeling of such flows. A refractive-index matched (RIM) tilting water flume will be constructed to carry out the experimental investigation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;bubbly-turbulent-flows.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+$\bigtriangleup $ Liquid turbulence in bubbly turbulent flows&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mean velocity, spreading and entrainment characteristics of weak bubble plumes in unstratified and stationary water</title>

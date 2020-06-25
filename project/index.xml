@@ -41,25 +41,5 @@ $\bigtriangleup $ Liquid turbulence in bubbly turbulent flows&lt;/p&gt;
 </description>
     </item>
     
-    <item>
-      <title>Stratified turbulence</title>
-      <link>https://Lai-etal-lab.github.io/project/mixing-and-scale-interactions-in-stratified-turbulence/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://Lai-etal-lab.github.io/project/mixing-and-scale-interactions-in-stratified-turbulence/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Mixing and scale interactions in stratified turbulence: improving turbulence models and estimates of oceanic mixing efficiency&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Stable density stratification inhibits fluid motions in the direction of the gradients. This creates flow anisotropy and favors motions along lines of constant density (isopycnals); the everyday smoke plume horizontally intruding into its surroundings is one example. Because of anisotropy, the pathways by which kinetic energy of the fluid motions is cascaded are also anisotropic and different than that predicted by classic turbulence theories. &lt;strong&gt;&lt;em&gt;The goal&lt;/em&gt;&lt;/strong&gt; of this project is to use high-resolution, volumetric velocity and density experimental data to improve the predictions of turbulent flows in the presence of stratification. Experiments will focus on canonical shear flows (jets, wakes, and mixing layers) and on two-layer stratified systems subject to homogeneous isotropic turbulence (HIT) under different Brunt-Vaisala frequencies ($N^2$). Obtained data will be used to test existing RANS and LES turbulence closure models and to propose new model formulations. The experiments will be done using refractive-index matching (RIM) techniques. Attention will also be paid to match the kinematic viscosities of the RIM fluid pair.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Turbulent flow in porous media</title>
-      <link>https://Lai-etal-lab.github.io/project/turbulent-flow-in-porous-media/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://Lai-etal-lab.github.io/project/turbulent-flow-in-porous-media/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Turbulent-laminar flow transitions in porous media: solute transport in river and groundwater&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Natural rivers and unpaved water channels involve turbulent surface flows over a permeable bed. Surface water enters the soil layer via infiltration and eventually becomes part of the groundwater flow. Apart from soil properties, the infiltration rate is highly dependent on the structures of the turbulent boundary layer adjacent to the porous bed. For sand beds with pore sizes of about 1mm, recent numerical studies found that the flow inside the pore matrix can become transitional and departs from the laminar Darcy flow regime; the Darcy coefficient is a function of the pore flow’s Reynolds number. Dispersion characteristics also change due to the change in flow regime. &lt;strong&gt;&lt;em&gt;The project goal&lt;/em&gt;&lt;/strong&gt; is to understand the different flow regimes and physics as a function of pore size and pore matrix using laboratory experiments. First part of the experimental program will focus on the effects of zero-mean flow, homogeneous isotropic turbulence (HIT) created above the porous bed. Second part will study the effects of a turbulent channel flow. Refractive-index matching (RIM) techniques will be used to measure flows inside the pores and a random-jet stirred tank will be built to create HIT.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
