@@ -31,9 +31,7 @@
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://Lai-etal-lab.github.io/project/multi-body-turbulent-flow/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Production of turbulence in an array of spheres with relative motions: air-water flows&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Environmental flows involving air or water interacting with heterogeneous objects such as particles, droplets or buildings are of great concern to the civil engineering discipline because of the modifications brought by the objects to the flow field, and hence, to the turbulent dispersion of solute and heat. &lt;strong&gt;&lt;em&gt;The goal&lt;/em&gt;&lt;/strong&gt; is to use high-resolution, volumetric velocity and scalar concentration field data to inform turbulence modeling of such flows. A refractive-index matched (RIM) tilting water flume will be constructed to carry out the experimental investigation.&lt;/p&gt;
-
 &lt;p&gt;
 
 
@@ -62,7 +60,6 @@ $\bigtriangleup $ Liquid turbulence in bubbly turbulent flows&lt;/p&gt;
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://Lai-etal-lab.github.io/project/mixing-and-scale-interactions-in-stratified-turbulence/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mixing and scale interactions in stratified turbulence: improving turbulence models and estimates of oceanic mixing efficiency&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Stable density stratification inhibits fluid motions in the direction of the gradients. This creates flow anisotropy and favors motions along lines of constant density (isopycnals); the everyday smoke plume horizontally intruding into its surroundings is one example. Because of anisotropy, the pathways by which kinetic energy of the fluid motions is cascaded are also anisotropic and different than that predicted by classic turbulence theories. &lt;strong&gt;&lt;em&gt;The goal&lt;/em&gt;&lt;/strong&gt; of this project is to use high-resolution, volumetric velocity and density experimental data to improve the predictions of turbulent flows in the presence of stratification. Experiments will focus on canonical shear flows (jets, wakes, and mixing layers) and on two-layer stratified systems subject to homogeneous isotropic turbulence (HIT) under different Brunt-Vaisala frequencies ($N^2$). Obtained data will be used to test existing RANS and LES turbulence closure models and to propose new model formulations. The experiments will be done using refractive-index matching (RIM) techniques. Attention will also be paid to match the kinematic viscosities of the RIM fluid pair.&lt;/p&gt;
 </description>
     </item>
