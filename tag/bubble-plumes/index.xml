@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bubble plumes | Et al. Lab</title>
+    <link>https://Lai-etal-lab.github.io/tag/bubble-plumes/</link>
+      <atom:link href="https://Lai-etal-lab.github.io/tag/bubble-plumes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bubble plumes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
+      <title>Bubble plumes</title>
+      <link>https://Lai-etal-lab.github.io/tag/bubble-plumes/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of linear autoregressive models for estimation of energy spectra in gappy turbulent velocity data</title>
+      <link>https://Lai-etal-lab.github.io/publication/linear-autoregressive-models/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/publication/linear-autoregressive-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Bubble Plumes in Unstratified Stagnant Water</title>
+      <link>https://Lai-etal-lab.github.io/publication/an-analysis-of-bubble-plumes-in-unstratified-stagnant-water/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/publication/an-analysis-of-bubble-plumes-in-unstratified-stagnant-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A LES-based Eulerian–Lagrangian approach to predict the dynamics of bubble plumes</title>
+      <link>https://Lai-etal-lab.github.io/publication/les-based/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/publication/les-based/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

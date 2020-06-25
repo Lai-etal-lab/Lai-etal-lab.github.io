@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gas/liquid flows | Et al. Lab</title>
+    <link>https://Lai-etal-lab.github.io/tag/gas/liquid-flows/</link>
+      <atom:link href="https://Lai-etal-lab.github.io/tag/gas/liquid-flows/index.xml" rel="self" type="application/rss+xml" />
+    <description>gas/liquid flows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright>
+    <image>
+      <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
+      <title>gas/liquid flows</title>
+      <link>https://Lai-etal-lab.github.io/tag/gas/liquid-flows/</link>
+    </image>
+    
+    <item>
+      <title>The turbulent kinetic energy budget in a bubble plume</title>
+      <link>https://Lai-etal-lab.github.io/publication/turbulent-kinetic-energy-budget/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/publication/turbulent-kinetic-energy-budget/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
