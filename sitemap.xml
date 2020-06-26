@@ -29,6 +29,11 @@
   </url>
   
   <url>
+    <loc>https://Lai-etal-lab.github.io/categories/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Lai-etal-lab.github.io/author/chris-ck-lai/</loc>
     <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
@@ -39,17 +44,12 @@
   </url>
   
   <url>
-    <loc>https://Lai-etal-lab.github.io/tag/grant/</loc>
+    <loc>https://Lai-etal-lab.github.io/category/grant/</loc>
     <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://Lai-etal-lab.github.io/post/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Lai-etal-lab.github.io/tags/</loc>
     <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
   
@@ -100,6 +100,11 @@
   
   <url>
     <loc>https://Lai-etal-lab.github.io/tag/sediment-transport/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Lai-etal-lab.github.io/tags/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -475,10 +480,6 @@
   
   <url>
     <loc>https://Lai-etal-lab.github.io/tag/k-/overline/epsilon-models/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Lai-etal-lab.github.io/categories/</loc>
   </url>
   
   <url>
