@@ -13,13 +13,12 @@
     </image>
     
     <item>
-      <title>Upcoming Seminar talk at John Hopkins Center for Environmental and Applied Fluid Mechanics</title>
+      <title>Upcoming Seminar at John Hopkins Center for Environmental and Applied Fluid Mechanics</title>
       <link>https://Lai-etal-lab.github.io/post/invited-talk-ceafm-2020spring/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 -0400</pubDate>
       <guid>https://Lai-etal-lab.github.io/post/invited-talk-ceafm-2020spring/</guid>
       <description>&lt;p&gt;Tune in to the virtual seminar 
-&lt;a href=&#34;https://wse.zoom.us/j/93762992307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wse.zoom.us/j/93762992307&lt;/a&gt; this Friday 3 pm EST .&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Friday, Februray 26, 2021, 3 pm EST&lt;/p&gt;
+&lt;a href=&#34;https://wse.zoom.us/j/93762992307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wse.zoom.us/j/93762992307&lt;/a&gt; this Friday (Feb. 26, 2021) 3 pm EST.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title: “Pseudo-Volumetric Reconstruction of Velocity and Density Fields from 2D Data &amp;amp; Energy Cascade in Multiphase Flows”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fluid turbulence is an unsteady, three-dimensional (3D) phenomenon that affects the dispersion of heat and mass in the environment and the friction (drag) at solid boundaries. To fully characterize a turbulent flow thus requires the simultaneous measurements of the fluid velocity, density, and tracer mass distributions within a fluid volume at a sufficient spatial-temporal resolution. This is a non-trivial task for experimentalists because of the capital involved; it is estimated that between 8 to 12 high-speed cameras are required to do a full tomographic reconstruction of the velocity and scalar fields. Even when a high number of cameras is available, the physical constraints of a setup may preclude the deployment of such imaging system. To circumvent this technological barrier, I will present in the first part of this seminar a three-camera reconstruction method to obtain time-resolved, 3D fluid velocity and
 density data from planar data.&lt;/p&gt;
