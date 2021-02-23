@@ -25,5 +25,18 @@
 </description>
     </item>
     
+    <item>
+      <title>Invited talk for this fall&#39;s Cornell Fluids Seminar</title>
+      <link>https://Lai-etal-lab.github.io/post/invited-talk-two/</link>
+      <pubDate>Tue, 17 Nov 2020 17:18:37 -0400</pubDate>
+      <guid>https://Lai-etal-lab.github.io/post/invited-talk-two/</guid>
+      <description>&lt;p&gt;In this talk, I have presented the research from my on-going collaboration with colleagues in the 
+&lt;a href=&#34;https://www.lanl.gov/projects/shocktube/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Extreme Fluids Team&lt;/a&gt; at Los Alamos National Lab. The abstract for this talk is below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, November 17, 2020, 12 pm EST&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title: Removing roadblocks in variable-density turbulence research&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Turbulent mixing involving two fluids of drastically different densities (density ratio $\rho_{2}/\rho_{1} \gg 1$) differs from that found in constant-density or Boussinesq fluids. The non-negligible inertial differences between fluid parcels create the so-called &lt;em&gt;mixing asymmetry&lt;/em&gt;; the hydrodynamics of a light fluid penetrating into a dense fluid is different from that of the dense fluid into the lighter one. Existing turbulence theories and models based on constant-density flows are inadequate when they are used to predict variable-density (VD) flows. Further, it becomes necessary to simultaneously measure density and velocity as the density is now an active scalar. The correlation between density fields and vortical structures is crucial in understanding the effects of fluid inertia on flow hydrodynamics. In this talk, we present an analytical and an experimental tool to study VD turbulence – (1) the generalization of the von Karman-Howarth-Monin (KHM) equation to include VD effects and (2) a three-camera reconstruction method to obtain time-resolved, 3D fluid velocity and density data from planar data. To illustrate the methods, we have applied them to analyze experimental datasets of a SF6 turbulent jet discharged into a coflowing air stream inside a wind tunnel; $\rho_{2}/\rho_{1} \approx 4$ at the jet nozzle exit.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
