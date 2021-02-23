@@ -5,7 +5,7 @@
     <link>https://Lai-etal-lab.github.io/category/talk/</link>
       <atom:link href="https://Lai-etal-lab.github.io/category/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 17 Nov 2020 17:18:37 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 23 Feb 2021 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
       <title>Talk</title>
@@ -13,23 +13,27 @@
     </image>
     
     <item>
-      <title>Invited talk for this fall&#39;s Cornell Fluids Seminar</title>
-      <link>https://Lai-etal-lab.github.io/post/invited-talk-cfs-2020fall/</link>
-      <pubDate>Tue, 17 Nov 2020 17:18:37 -0400</pubDate>
-      <guid>https://Lai-etal-lab.github.io/post/invited-talk-cfs-2020fall/</guid>
-      <description>&lt;p&gt;In this talk, I have presented the research from my on-going collaboration with colleagues in the 
-&lt;a href=&#34;https://www.lanl.gov/projects/shocktube/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Extreme Fluids Team&lt;/a&gt; at Los Alamos National Lab. The abstract for this talk is below:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, November 17, 2020, 12 pm EST&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Title: Removing roadblocks in variable-density turbulence research&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Turbulent mixing involving two fluids of drastically different densities (density ratio $\rho_{2}/\rho_{1} \gg 1$) differs from that found in constant-density or Boussinesq fluids. The non-negligible inertial differences between fluid parcels create the so-called &lt;em&gt;mixing asymmetry&lt;/em&gt;; the hydrodynamics of a light fluid penetrating into a dense fluid is different from that of the dense fluid into the lighter one. Existing turbulence theories and models based on constant-density flows are inadequate when they are used to predict variable-density (VD) flows. Further, it becomes necessary to simultaneously measure density and velocity as the density is now an active scalar. The correlation between density fields and vortical structures is crucial in understanding the effects of fluid inertia on flow hydrodynamics. In this talk, we present an analytical and an experimental tool to study VD turbulence – (1) the generalization of the von Karman-Howarth-Monin (KHM) equation to include VD effects and (2) a three-camera reconstruction method to obtain time-resolved, 3D fluid velocity and density data from planar data. To illustrate the methods, we have applied them to analyze experimental datasets of a SF6 turbulent jet discharged into a coflowing air stream inside a wind tunnel; $\rho_{2}/\rho_{1} \approx 4$ at the jet nozzle exit.&lt;/p&gt;
+      <title>Upcoming Seminar talk at John Hopkins Center for Environmental and Applied Fluid Mechanics</title>
+      <link>https://Lai-etal-lab.github.io/post/invited-talk-ceafm-2020spring/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 -0400</pubDate>
+      <guid>https://Lai-etal-lab.github.io/post/invited-talk-ceafm-2020spring/</guid>
+      <description>&lt;p&gt;Tune in to the virtual seminar 
+&lt;a href=&#34;https://wse.zoom.us/j/93762992307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wse.zoom.us/j/93762992307&lt;/a&gt; this Friday 3 pm EST .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Friday, Februray 26, 2021, 3 pm EST&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title: “Pseudo-Volumetric Reconstruction of Velocity and Density Fields from 2D Data &amp;amp; Energy Cascade in Multiphase Flows”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fluid turbulence is an unsteady, three-dimensional (3D) phenomenon that affects the dispersion of heat and mass in the environment and the friction (drag) at solid boundaries. To fully characterize a turbulent flow thus requires the simultaneous measurements of the fluid velocity, density, and tracer mass distributions within a fluid volume at a sufficient spatial-temporal resolution. This is a non-trivial task for experimentalists because of the capital involved; it is estimated that between 8 to 12 high-speed cameras are required to do a full tomographic reconstruction of the velocity and scalar fields. Even when a high number of cameras is available, the physical constraints of a setup may preclude the deployment of such imaging system. To circumvent this technological barrier, I will present in the first part of this seminar a three-camera reconstruction method to obtain time-resolved, 3D fluid velocity and
+density data from planar data.&lt;/p&gt;
+&lt;p&gt;In the second part, I will change gear to discuss the similarities and differences on the interscale energy transfer in particle-laden and bubble-laden plumes. Examples of such plumes are found in subsea oil spills, in chemical mixing tanks, and in volcanic eruptions. Currently, our ability to predict their hydrodynamic behaviors is limited by our knowledge of the turbulence that exists in them. I will present combined experimental and numerical results to bridge this gap.&lt;/p&gt;
+&lt;p&gt;Announcement link: 
+&lt;a href=&#34;https://pages.jh.edu/ceafm/weekly-seminar/Spring21/Lai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pages.jh.edu/ceafm/weekly-seminar/Spring21/Lai.html&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Invited talk for this fall&#39;s Cornell Fluids Seminar</title>
-      <link>https://Lai-etal-lab.github.io/post/invited-talk-two/</link>
+      <link>https://Lai-etal-lab.github.io/post/invited-talk-cfs-2020fall/</link>
       <pubDate>Tue, 17 Nov 2020 17:18:37 -0400</pubDate>
-      <guid>https://Lai-etal-lab.github.io/post/invited-talk-two/</guid>
+      <guid>https://Lai-etal-lab.github.io/post/invited-talk-cfs-2020fall/</guid>
       <description>&lt;p&gt;In this talk, I have presented the research from my on-going collaboration with colleagues in the 
 &lt;a href=&#34;https://www.lanl.gov/projects/shocktube/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Extreme Fluids Team&lt;/a&gt; at Los Alamos National Lab. The abstract for this talk is below:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, November 17, 2020, 12 pm EST&lt;/p&gt;
