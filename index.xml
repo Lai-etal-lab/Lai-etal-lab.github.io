@@ -5,12 +5,24 @@
     <link>https://Lai-etal-lab.github.io/</link>
       <atom:link href="https://Lai-etal-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Et al. Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Lai-etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
       <title>Et al. Lab</title>
       <link>https://Lai-etal-lab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Awarded USGS 104b grant (FY 2022) on studying the hydraulic transients in water distribution systems</title>
+      <link>https://Lai-etal-lab.github.io/post/usgs-award-2022/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Lai-etal-lab.github.io/post/usgs-award-2022/</guid>
+      <description>&lt;p&gt;Our project &lt;em&gt;&lt;strong&gt;Hydraulic transients in water distribution systems – the role of unsteady friction and groundwater contamination&lt;/strong&gt;&lt;/em&gt; has been awarded a 1-year research grant from 
+&lt;a href=&#34;https://www.doi.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U.S. Department of the Interior&lt;/a&gt;
+&lt;a href=&#34;https://water.usgs.gov/wrri/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Resources Research Act Program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project develops a risk assessment tool to evaluate the health risks associated with contaminated water intrusions in distribution systems caused by hydraulic transients. This work is motivated by the increasing demands for drinking water supply due to population and city growth. In turn, this leads to expansion of existing pipeline networks with more connections and flow control structures. Performance optimization of such complex networks involves non-trivial control procedures that can generate significant hydraulic transient events propagating in all parts of the system. One potential public health consequence is the intrusion of sewage-contaminated groundwater into the pipeline at pipe leaks caused by negative pressure surges. Because transients occur over short timescales, source tracing after an event is improbable, if not impossible at all; the high contaminant concentrations that lead to human illnesses has already been flushed downstream. Thus, a predictive model must be used to assess the associated health risks. This proposed research consists of two phases. In the first phase, we critically re-examine 1D unsteady friction models and the orifice equation for modeling leakage using detailed experiments. The experimental setup is a reservoir-pipe-valve system that provides optical access for particle image velocimetry (PIV) and laser-induced fluorescence (LIF) measurements. In the second phase, we couple a hydraulic transient model to the advective-diffusion-reaction equation for the monitoring of contaminant (e.g., heavy metals and pathogens) intrusions into pipelines due to suction at leaks. Combining the predicted contaminant concentrations with dosage-response studies and human water consumption behaviors, we construct risk maps for an illustrative water distribution system that show likelihood of consumers falling ill due to the usage of contaminated drinking water.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Congrats Alex Zimmer for receiving the Outstanding Undergraduate Researcher award in the Spring Symposium</title>
